@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+
+# Logs and databases
+*.log
+*.db
+*.sqlite3
+
+# Docker
+*.pid
+
+# VS Code
+.vscode/
+
+# Tests (if you have a tests folder)
+tests/
+
+# Node/Frontend (if any accidentally copied)
+node_modules/
+Frontend/
